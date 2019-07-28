@@ -37,22 +37,13 @@
     ],
     "InternExperiences": [
         {
-            "name": "深圳三分线网络科技有限公司",
+            "name": "徐州苒升信息科技有限公司",
             "name_link": "",
             "title": "前端开发工程师",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
-        },
-        {
-            "name": "深圳百贝斯网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
-            "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "负责独立完成公司官网的微信小程序/百度小程序的开发，参与公司部门管理系统，网上商城等案例开发",
+            "time": "2019.05 - 2019.07",
+            "location": "江苏 徐州"
         }
     ],
     "ProjectExperience": [
