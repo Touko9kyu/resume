@@ -44,8 +44,10 @@
             "description": "负责独立完成公司官网的微信小程序/百度小程序的开发，参与公司部门管理系统，网上商城等案例开发",
             "time": "2019.05 - 2019.07",
             "location": "江苏 徐州"
-        },
-        {
+        }
+    ],
+   "workExperiences":[
+      {
             "name": "徐州易为一网络科技有限公司",
             "name_link": "",
             "title": "前端开发工程师",
@@ -54,7 +56,7 @@
             "time": "2019.10 - 2020.03",
             "location": "江苏 徐州"
         }
-    ],
+   ],
     "ProjectExperience": [
         {
             "name": "HTML5+CSS+JavaScript",
