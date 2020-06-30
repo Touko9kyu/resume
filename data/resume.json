@@ -53,7 +53,7 @@
             "title": "前端开发工程师",
             "icon": "",
             "description": "负责商城小程序《惠享全诚》的UI、前端逻辑编写，与后端交互，json数据处理",
-            "time": "2019.10 - 2020.03",
+            "time": "2019.10 - 2020.05",
             "location": "江苏 徐州"
         }
    ],
@@ -66,28 +66,36 @@
             "location": ""
         },
         {
-            "name": "jQuery",
-            "name_link": "",
-            "title": "掌握程度:熟练",
-            "icon": "",
-            "description": "",
-            "location": ""
-        },
-		{
             "name": "Vue.js",
             "name_link": "",
-            "title": "掌握程度:一般(正在学习)",
+            "title": "掌握程度:熟练",
             "icon": "",
             "description": "",
             "location": ""
         },
-		{
-            "name": "微信小程序/百度小程序开发",
+        {
+            "name": "微信小程序开发",
             "name_link": "",
             "title": "掌握程度:熟练",
             "icon": "",
             "description": "",
             "location": ""
-        }
+        },
+	{
+	    "name": "uniapp开发",
+            "name_link": "",
+            "title": "掌握程度:熟练",
+            "icon": "",
+            "description": "",
+            "location": ""
+	},
+	{
+	    "name": "Foundation",
+            "name_link": "",
+            "title": "掌握程度:熟练",
+            "icon": "",
+            "description": "",
+            "location": ""    
+	}
     ]
 }
