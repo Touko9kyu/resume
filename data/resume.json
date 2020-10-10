@@ -62,7 +62,16 @@
             "title": "前端开发工程师",
             "icon": "",
             "description": "使用uniapp开发前端界面，数据逻辑交互",
-            "time": "2020.05 - 2020.07",
+            "time": "2020.05 - 2020.08",
+            "location": "江苏 徐州"
+        },
+	   {
+            "name": "徐州扶摇云起网络科技",
+            "name_link": "",
+            "title": "前端开发工程师",
+            "icon": "",
+            "description": "使用vant weapp+原生微信小程序开发商城小程序项目《烽火》前端，使用uniapp开发公司网站项目手机端。",
+            "time": "2020.08 - 2020.10",
             "location": "江苏 徐州"
         }
    ],
@@ -102,6 +111,22 @@
 	    "name": "Foundation框架",
             "name_link": "",
             "title": "掌握程度:一般",
+            "icon": "",
+            "description": "",
+            "location": ""    
+	},
+	{
+	   "name": "npm构建工具",
+            "name_link": "",
+            "title": "掌握程度:熟练",
+            "icon": "",
+            "description": "",
+            "location": ""    
+	},
+	{
+	    "name": "Vant weapp框架",
+            "name_link": "",
+            "title": "掌握程度:熟练",
             "icon": "",
             "description": "",
             "location": ""    
