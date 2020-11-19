@@ -3,7 +3,7 @@
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
         "name": "许言月",
-        "description": "热爱学习技术，提高自身能力的小白",
+        "description": "",
         "school": "徐州经贸高等职业学校",
         "profession": "软件技术",
         "sex": "女",
@@ -71,7 +71,7 @@
             "title": "前端开发工程师",
             "icon": "",
             "description": "使用vant weapp+原生微信小程序开发商城小程序项目《烽火》前端，使用uniapp开发公司网站项目手机端。",
-            "time": "2020.08 - 2020.10",
+            "time": "2020.08 - 至今",
             "location": "江苏 徐州"
         }
    ],
@@ -125,6 +125,14 @@
 	},
 	{
 	    "name": "Vant weapp框架",
+            "name_link": "",
+            "title": "掌握程度:熟练",
+            "icon": "",
+            "description": "",
+            "location": ""    
+	},
+	{
+	    "name": "layUI框架",
             "name_link": "",
             "title": "掌握程度:熟练",
             "icon": "",
